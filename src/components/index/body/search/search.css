@@ -1,0 +1,27 @@
+.search-container form {
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card-item {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 30px;
+    margin: 10px 0;
+    padding: 0 10px;
+    /* border: cadetblue 1px solid; */
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px 0 rgba(120,120,120,0.51);
+}
+
+.card-info {
+    display: flex;
+    gap: 10px;
+}
+
+.card-info h5{
+    margin: 0;
+}

@@ -1,0 +1,38 @@
+footer {
+    padding: 48px 0;
+    /* position:fixed; */
+    bottom:0px;
+    width:100%;
+}
+
+.footer-container {
+    width: 100%;
+    margin-left: auto;
+    box-sizing: border-box;
+    margin-right: auto;
+    display: block;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.footer-title {
+    margin: 0;
+    /* font-family: "Roboto","Helvetica","Arial",sans-serif; */
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    text-align: center;
+    margin-bottom: 0.35em;
+}
+
+.footer-description {
+    margin: 0;
+    /* font-family: "Roboto","Helvetica","Arial",sans-serif; */
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.75;
+    letter-spacing: 0.00938em;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.6);
+}

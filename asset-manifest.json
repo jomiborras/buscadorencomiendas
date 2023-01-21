@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buscadorencomiendas/static/css/main.047f3681.css",
+    "main.js": "/buscadorencomiendas/static/js/main.4b82bf71.js",
+    "static/js/787.2161b01d.chunk.js": "/buscadorencomiendas/static/js/787.2161b01d.chunk.js",
+    "index.html": "/buscadorencomiendas/index.html",
+    "main.047f3681.css.map": "/buscadorencomiendas/static/css/main.047f3681.css.map",
+    "main.4b82bf71.js.map": "/buscadorencomiendas/static/js/main.4b82bf71.js.map",
+    "787.2161b01d.chunk.js.map": "/buscadorencomiendas/static/js/787.2161b01d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.047f3681.css",
+    "static/js/main.4b82bf71.js"
+  ]
+}

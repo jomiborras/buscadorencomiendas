@@ -1,5 +1,6 @@
 {
   "name": "packapp",
+  "homepage": "https://jomiborras.github.iom/buscadorencomiendas/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
